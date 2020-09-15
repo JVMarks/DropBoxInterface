@@ -1,9 +1,9 @@
 <h1 align="center">
-UI Clone - Dropbox Homepage
+Dropbox Homepage
 </h1>
 
 <p align="center">Responsive Dropbox Homepage UI clone for study purposes.</p>
-<p align="center">Deployed <a href="https://rocketseat-clone-dropbox-menu.netlify.app/">here</a>.</p>
+<p align="center">Deployed <a href="https://dropboxhome.vercel.app/">here</a>.</p>
 
 <p align="center">
   <a href="https://github.com/Rocketseat/youtube-clone-dropbox-menu/graphs/contributors">
@@ -24,3 +24,5 @@ UI Clone - Dropbox Homepage
 
 1. Run `npm install` or `yarn install`.<br />
 2. Run `yarn start` and access `http://localhost:3000`.<br />
+
+<p>Feito com ♥ by Rocketseat <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> <a href="https://discordapp.com/invite/gCRAFhc" rel="nofollow">Entre na nossa comunidade!</a></p>
