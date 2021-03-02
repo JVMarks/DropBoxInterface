@@ -1,7 +1,6 @@
 <h1 align="center">
 Dropbox Homepage
 </h1>
-
 <p align="center">Responsive Dropbox Homepage UI clone for study purposes.</p>
 <p align="center">Deployed <a href="https://dropboxhome.vercel.app/">here</a>.</p>
 
